@@ -27,6 +27,6 @@
 - un bout de code, avec coloration syntaxique (par exemple [ce bout de code](http://stackoverflow.com/a/1701672/53960).
 
 ### Deadline
-Vendredi 12h30.
+Jeudi 14h45.
 
 
