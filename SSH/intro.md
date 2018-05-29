@@ -9,7 +9,7 @@ Le SSH ou Secure Shell est un protocole de communication mis au point en 1995 pa
  
 ## Pourquoi en a t-on besoin (en tant que web dev)
 
-Dans le métier de développeur web on sera amené à devoir developpeur des sites en local (serveur sur notre machine physique)  et puis les transfèrer sur notre machine de production (un serveur en ligne, quelque part dans le monde, qui n’est qu’en soit un autre ordianteur). 
+Dans le métier de développeur web on sera amené à devoir developper des sites en local (serveur sur notre machine physique)  et puis les transfèrer sur notre machine de production (un serveur en ligne, quelque part dans le monde, qui n’est qu’en soit un autre ordianteur). 
 
 ## Concrètement comment ça marche
 
