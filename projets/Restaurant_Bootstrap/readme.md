@@ -23,3 +23,13 @@ Il faut au minimum :
 ### Contrainte
 *pour ceux qui auraient l'audace d'y penser* :
 ne pas utiliser de thème déjà tout fait.
+
+
+#### Notes
+Points à évaluer :
+- minimum syndical : favicon, title, alt, title,...
+- ergonomie
+- performance
+- design
+- accessibilité
+- responsiveness
