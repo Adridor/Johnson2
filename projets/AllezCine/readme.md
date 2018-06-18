@@ -15,7 +15,7 @@
 ## Le Travail d'intégration Front-End
 
 Vous avez **2 travaux en rendre** :
-- Un site en ONE PAGE avec un design fourni ([yes !](./layout-one-v2.jpg)). [[Accès rapide]](#a--site-avec-layout)
+- Un site en ONE PAGE [avec un design fourni](./layout-one-v2.jpg) que vous devez respecter. [[Accès rapide]](#a--site-avec-layout)
 - Création d’une newsletter pour faire la promo des nouveautés sur votre site. [[Accès rapide]](#b-la-newsletter-bonus)
 
 Pour cela, vous devez utiliser les technologies vues depuis le début, c’est à dire :
