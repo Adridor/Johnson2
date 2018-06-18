@@ -102,7 +102,7 @@ Utiliser les deux petits boutons à droite pour faire défiler les films de gauc
 ### Section Contact Us
 Créer un formulaire (dans la page HTML, pas dans un pop-up). Faites en sorte que les entrées du formulaire s'affichent dans un pop-up lorsqu’on clique sur “Send Message”. (Pas de traitement en php, prochainement promis)
 
-Bonus : mettre une map dans la section Contact us.
+Bonus : mettre une google map dans la section Contact us.
 
 ### Section Footer
 Faites en sorte que lorsqu’on clique sur le petit bouton rouge avec la flèche blanche, on monte jusqu’à l'entête du site, le petit bouton disparaît une fois que l'entête apparaît.
