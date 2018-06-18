@@ -15,7 +15,7 @@
 ## Le Travail d'intégration Front-End
 
 Vous avez **2 travaux en rendre** :
-- Un site en ONE PAGE [avec un design fourni](./layout-one-v2.jpg) que vous devez respecter. [[Accès rapide]](#a--site-avec-layout)
+- Un site en ONE PAGE [avec un design fourni](./layout-one-v2.jpg) que vous devez respecter au maximum. [[Accès rapide]](#a--site-avec-layout)
 - Création d’une newsletter pour faire la promo des nouveautés sur votre site. [[Accès rapide]](#b-la-newsletter-bonus)
 
 Pour cela, vous devez utiliser les technologies vues depuis le début, c’est à dire :
@@ -81,7 +81,7 @@ Comme c’est une onepage, les liens du menu doivent pointer vers les sections d
 Le **jumbotron** de l'entête doit faire 100% de la largeur de l'écran dans lequel il y a un slide (Cf layout). Faire fonctionner le **slide** en CSS ou en JS ou jQuery)
 
 ### Les boutons réseaux sociaux
-Les **boutons de réseaux sociaux** sont en position fixe. Si on clique sur un bouton, il doit s’allonger avec une animation (ici utilisez juste du CSS).
+Les **boutons de réseaux sociaux** sont en position fixe. Si on clique sur un bouton, il doit s’allonger avec une animation (ici utilisez juste du CSS). Les réseaux sont twitter, facebook, dribbble et google plus.
 
 ### Section Films
 Chaque film doit comporter :
