@@ -70,7 +70,7 @@ Une fois sur le site, faire apparaître n’importe où sur le site une box pour
  - Conditions générales d'utilisation bouton [Select]
  - Bouton [Register]
 
-(Difficulté : faire disparaître le formulaire lorsqu'on clique sur CANCEL, sur le formulaire ou sur le bouton register, et vice versa ).
+(Difficulté : faire disparaître le formulaire lorsqu'on clique sur CANCEL, en-dehors du formulaire ou sur le bouton register).
 
 ### Menu
 Un **menu** en bootstrap avec des sous-menus. (**Menu hamburger pour le responsive**).
