@@ -11,8 +11,9 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 
 ## Retards et absences
 
-- Si tu dois fixer un rendez-vous quelconque, fixe-le le **mardi matin** (sois de retour pour 13h25).
-- Si vraiment tu ne peux faire autrement, préviens nous **au moins un jour à l'avance** en envoyant un email à eric@becode.org, juan@becode.org ET admin@becode.org.
+- En cas de retard, préviens en envoyant un email à Eric, Emily ET admin.
+- En cas d'absence, préviens en envoyant un email à Eric, Emily ET admin. Si ton absence est justifié, n'attends pas d'avoir le justificatif pour nous prévenir. Préviens PUIS envoie-nous les justificatifs par e-mail PUIS apporte-nous les justificatifs physiques.
+- En cas de départ anticipé, préviens en envoyant un email à Eric, Emily ET admin.
 - Malade ? Montre un certificat médical valide dans les 2 jours et préviens-nous par email aussitôt que possible.
 
 ## Contenus pédagogiques
