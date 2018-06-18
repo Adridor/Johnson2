@@ -2,7 +2,9 @@
 
 - Repository : `frontend-AllezCine`
 - Temps nécessaire : 2 semaines
-- Travail : équipe
+- Deadline : vendredi 29/06 à 17:00
+- Travail : équipe de 2
+- Formulaire de remise du projet : https://goo.gl/forms/pvYuVv1UOUFyT3PA3
 
 ## Objectifs d'apprentissage
 - respecter un design fourni
@@ -130,3 +132,18 @@ Vous travaillez en groupe :
 ### Cat Tax : Maru
 
 ![Maru](https://s-media-cache-ak0.pinimg.com/736x/01/db/73/01db734bfbebad88776671495bc09cf5.jpg)
+
+### Rappel des équipes
+
+- Guillaume Kreit & Jesse Fumba
+- Nicolas de Liedekerke & Marie Cambie
+- Thibault Gribaumont & Marco Bove
+- Adrien d'Oreye & Merieme Lamri
+- Jean-François Geerinckx & Cedric Fournier
+- Nathan Houtain & Stephane Wilfort
+- Marie Louise Ogdoc & Charlotte Tusset
+- Antoni Dalle Nogare & Alexandre Infanti
+- Ajay Shinde & Colombe Sechehaye
+- Liam Carlier & Geraldine Winand
+- Hakan Poyraz & Eric Lavachery
+- Massimo Regaglia & Guillaume Deruwez
