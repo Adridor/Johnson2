@@ -47,4 +47,4 @@ Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te
 
 ## Congés
 - lundi 02 juillet au vendredi 06 juillet 2018
-- lundi 10 septembre au vendredi 14 juillet 2018
+- lundi 10 septembre au vendredi 14 septembre 2018
