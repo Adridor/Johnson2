@@ -6,7 +6,7 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 ## Tes sources d'information pour respecter les règles de BeCode
 
 1. Lis le [contrat pédagogique](../../../BeCode/blob/master/contratpedagogique.md).
-1. Consulte également le [livret des apprenants](./livret-johnson2.pdf).
+1. Consulte également le [livret des apprenants](./livret-daccueil-apprenant.pdf).
 1. Le [Wiki de BeCode](https://github.com/becodeorg/BeCode/wiki)
 
 ## Retards et absences
@@ -18,14 +18,32 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 
 ## Contenus pédagogiques
 
-- [Parcours](/Parcours) : les parcours sont des tutoriels à faire en solitaire, alliant théorie et pratique, afin de monter rapidement en compétence. Ils sont rédigés par tes coachs. N'hésite pas à les refaire plusieurs fois.  
-- [Projets & exercices](/Projects) : les projets sont conçus pour t'amener à découvrir par toi-même des problématiques spécifiques de code, en auto-apprentissage. Ils servent également, bien sûr, à t'entraîner sur des projets réalistes.
-- [Missions](/Missions) : projets externes, commandités par de vrais clients.
 - Inscriptions à [La Veille](https://github.com/becodeorg/la-veille)
+- [La prairie](./01-La-prairie)
+- [HTML/CSS](./02-HTML-CSS)
+- [SASS](./02.5-SASS)
+- [Bootstrap](./03-Bootstrap)
+- [Javascript](./04-Javascript)
+- [PWA](./13-PWA)
 
 ## Briefings de Projets
 Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te sont proposés.
 
-1. [La-prairie](/01-La-prairie/)
+- [Website de restaurant (sujet au choix)](./projets/Restaurant_Bootstrap) en framework CSS
+- [Website AllezCiné + newsletter](./projets/AllezCine) à réaliser avec HTML, CSS, framework CSS, Javascript, jQuery
+
+## Workshops
+| thème | date | apprenant |
+|---|---|---|
+| HTML | 11/06 | Charlotte |
+| Frameworks CSS | 12/06 | Adrien |
+| SASS | 13/06 | Merry |
+| jQuery (Animations) | 14/06 | Hakan |
+| AJAX / JSON (Todo App) | 15/06 | Adrien |
+| Vue.js (Todo app) | | Alexandre|
+| Firebase / Firestore (Todo app) | | Cédric |
+| Angular | | |
+| NodeJS | | Guillaume Deruwez |
+
 
 
