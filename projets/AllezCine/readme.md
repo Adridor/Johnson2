@@ -104,7 +104,7 @@ Utiliser les deux petits boutons à droite pour faire défiler les films de gauc
 ### Section Contact Us
 Créer un formulaire (dans la page HTML, pas dans un pop-up). Lorsque l'utilisateur clique sur [send message], faites en sorte que les entrées du formulaire s'affichent dans un pop-up. (Pas de traitement en PHP, prochainement promis)
 
-Petite précision, petit rappel : la section contact n'est pas à faire sous forme de pop-up. Elle est bien intégrée à la page.
+Petite précision, petit rappel : la section contact n'est pas à faire sous forme de pop-up. Elle est bien intégrée à la page. Considérez que "Contact us" est intégralement visible et lisible.
 
 Bonus : mettre une google map dans la section Contact us.
 
