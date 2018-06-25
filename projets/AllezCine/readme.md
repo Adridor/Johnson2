@@ -16,7 +16,7 @@
 
 Vous avez **2 travaux en rendre** :
 - Un site en ONE PAGE [avec un design fourni](./layout-one-v2.jpg) que vous devez respecter au maximum. [[Accès rapide]](#a--site-avec-layout)
-- Création d’une newsletter pour faire la promo des nouveautés sur votre site. [[Accès rapide]](#b-la-newsletter-bonus)
+- Création d’une newsletter pour faire la promo des nouveautés sur votre site. [[Accès rapide]](#b-la-newsletter)
 
 Pour cela, vous devez utiliser les technologies vues depuis le début, c’est à dire :
 - HTML
@@ -116,7 +116,7 @@ CONTRAINTE : créer ce bouton en pur JS avec createElement(), createTextNode() e
 FAITES QUE LE SITE SOIT RESPONSIVE (Bootstrap + Media queries)
 
 
-## B. La newsletter (BONUS)
+## B. La newsletter
 
 Utiliser ce site https://putsmail.com/tests/new pour tester votre newsletter.
 Vous pouvez utiliser les tables, ou du HTML5 (certains webmails acceptent du HTML5 mais mais mais attention avec le CSS)
