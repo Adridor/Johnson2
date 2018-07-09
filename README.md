@@ -36,8 +36,8 @@ Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te
 | thème | date | apprenant |
 |---|---|---|
 | HTML | 11/06 | Charlotte |
-| Frameworks CSS | 12/06 | Adrien |
-| SASS | 13/06 | Merry |
+| Frameworks CSS | 12/06 | Mery |
+| SASS | 13/06 | Nicolas |
 | jQuery (Animations) | 14/06 | Hakan |
 | AJAX / JSON (Todo App) | 15/06 | Adrien |
 | Vue.js (Todo app) | | Alexandre|
