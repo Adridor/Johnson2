@@ -11,10 +11,12 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 
 ## Retards et absences
 
-- En cas de retard, préviens en envoyant un email à Eric, Emily ET admin.
-- En cas d'absence, préviens en envoyant un email à Eric, Emily ET admin. Si ton absence est justifié, n'attends pas d'avoir le justificatif pour nous prévenir. Préviens PUIS envoie-nous les justificatifs par e-mail PUIS apporte-nous les justificatifs physiques.
-- En cas de départ anticipé, préviens en envoyant un email à Eric, Emily ET admin.
-- Malade ? Montre un certificat médical valide dans les 2 jours et préviens-nous par email aussitôt que possible.
+En cas de retard, d'absence ou de départ anticipé (que ça soit prévu ou pas du tout), préviens-nous en passant par la plateforme my.becode.org. [[Mode d'emploi](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md)]
+Dans l'ordre :
+- tu préviens via la plateforme [my.becode.org](https://my.becode.org)
+- si tu as déjà ton justificatif, envoie-le directement.
+- si tu sais que tu l'auras plus tard, préviens quand tu encodes ton absence que tu auras ton justif et envoie-le dès que tu l'as.
+- si tu sais que tu n'auras pas de justif, préviens-nous que tu n'en auras pas.
 
 ## Contenus pédagogiques
 
