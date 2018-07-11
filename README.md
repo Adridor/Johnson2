@@ -12,11 +12,17 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 ## Retards et absences
 
 En cas de retard, d'absence ou de départ anticipé (que ça soit prévu ou pas du tout), préviens-nous en passant par la plateforme my.becode.org. [[Mode d'emploi](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md)]
+
 Dans l'ordre :
 - tu préviens via la plateforme [my.becode.org](https://my.becode.org)
 - si tu as déjà ton justificatif, envoie-le directement.
 - si tu sais que tu l'auras plus tard, préviens quand tu encodes ton absence que tu auras ton justif et envoie-le dès que tu l'as.
 - si tu sais que tu n'auras pas de justif, préviens-nous que tu n'en auras pas.
+
+[Petit rappel](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md#sanctions) :
+- 2 retards non justifiés seront comptabilisés comme une absence ;
+- 2 absences entraîneront une convocation en entretien individuel ;
+- 6 absences non justifiées entraîneront une exclusion définitive.
 
 ## Contenus pédagogiques
 
