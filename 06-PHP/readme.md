@@ -3,6 +3,17 @@
 
 Ce parcours sur l'apprentissage du PHP est _made in BeCode_ mais libre à toi d'aller sur OpenClassroom, CodeaCaMachin, voire trucMuche... 
 
+## Configurer son PC pour pouvoir jouer avec du PHP
+- [Configurer un environnement de développement local (LAMP) sur Ubuntu](https://github.com/becodeorg/BeCode/wiki/Installer-LAMP-sur-Ubuntu) - si le lien ne fonctionne pas, [cliquez ici](https://github.com/becodeorg/BeCode/wiki) puis cliquez sur [Pages] puis choisissez le bon post.
+- [Installer LAMP sur Linux](https://doc.ubuntu-fr.org/lamp)
+- [Et y'a le tuto de Thomas aussi](https://github.com/Rivanos/projet-client-connectbx/tree/master/Le%20site#installer-linux-apache-mysql-php-lamp)
+- [Installer PHPMyAdmin](https://doc.ubuntu-fr.org/phpmyadmin)
+
+
+## Introduction
+- [Introduction au PHP](https://docs.google.com/presentation/d/133tChXIMvfqRgaf9329WOymsGTXLzIVXyIZpW0Z1mFI/edit?usp=sharing)
+- [Comprendre en quoi consiste la programmation !](https://www.video2brain.com/fr/tuto/en-quoi-consiste-la-programmation) (3 min vidéo)
+
 Quel que soit le chemin choisi, ce qui est important est que tu atteignes ces...
 ## Objectifs d'apprentissage
 ### Temps 1 : parcours 06-PHP
