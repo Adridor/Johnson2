@@ -29,9 +29,10 @@ Dans l'ordre :
 - Inscriptions à [La Veille](https://github.com/becodeorg/la-veille)
 - [La prairie](./01-La-prairie)
 - [HTML/CSS](./02-HTML-CSS)
-- [SASS](./02.5-SASS)
 - [Bootstrap](./03-Bootstrap)
-- [Javascript](./04-Javascript)
+- [SASS](./04-SASS)
+- [Javascript](./05-Javascript)
+- [PHP](./06-PHP)
 - [PWA](./13-PWA)
 
 ## Briefings de Projets
