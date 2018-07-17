@@ -67,11 +67,10 @@ Quel que soit le chemin choisi, ce qui est important est que tu atteignes ces...
 1. [Introduction](php-introduction.md)
 2. [Variables](php-variables.md)
 3. [Conditions](php-conditions.md)
-4. Quizz: [PHP / intro + variables](../../Quizz/PHP/php-base-1.md)
-5. Drill: [Exercices sur les Conditions](php-exercices-conditions.md)
-6. [Tableaux (array)](php-array.md)
-7. [Boucles](php-boucles.md)
-8. [Fonctions](php-fonctions.md)
+4. Drill : [Exercices sur les Conditions](php-exercices-conditions.md)
+5. [Tableaux (array)](php-array.md)
+6. [Boucles](php-boucles.md)
+7. [Fonctions](php-fonctions.md)
 
 ### Temps 1 : Exercices pratiques
 Une fois ces étapes du parcours effectuées, utilisons ces nouveaux acquis dans des exercices concrets, inspirés de situations réelles.
