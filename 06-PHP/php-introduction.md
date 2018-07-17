@@ -68,7 +68,7 @@ Si tu es sur Windows, tu peux donc chercher "WAMP" et sur mac "MAMP".
 
 #### 1. Installation:
 
-1. Voir les instructions pour [installer un environnement LAMP](https://github.com/becodeorg/BeCode/wiki/Installer-LAMP-sur-Ubuntu). Si tu préfères, tu peux aussi utiliser Docker pour télécharger et installer un environnement de développement tout fait qui tournera en machine virtuelle sur ta machine. [Voici un Docker LEMP parfait](https://github.com/becodeorg/docker-compose-lamp-stack) pour ton parcours à BeCode. 
+1. Voir les instructions pour [installer un environnement LAMP](https://github.com/becodeorg/BeCode/wiki/Installer-LAMP-sur-Ubuntu). Si tu préfères, tu peux aussi utiliser Docker pour télécharger et installer un environnement de développement tout fait qui tournera en machine virtuelle sur ta machine. [Voici un Docker LEMP parfait](https://github.com/becodeorg/docker-compose-lemp) pour ton parcours à BeCode. 
 
 Quel que soit le chemin que tu choisis, tu dois avoir un serveur qui serve l'adresse http://localhost:PORT/ pour pouvoir continuer.
 
@@ -89,9 +89,9 @@ Tu devrais voir le sympathique message "Hello!" que tu t'es adressé. Tu viens d
 
 ### Exercices
 
-- Prends quelques minutes et joue avec ton fichier index.php. Mets-y une image.
+- Prends quelques minutes et joue avec ton fichier index.php. Mets-y une image de chats.
 - Crée une deuxième page dans le même dossier (`cats.php`) et ajoute un peu de contenu et surtout un lien sur chacune des deux pages permettant de passer de l'une à l'autre.
-- Fait? Bravo, tu viens de créer ton premier site internet!
+- Fait? Bravo, tu viens de créer un site internet chat-oyant !
 Voici un chaton pour fêter cela.
 
 ![Giphy](http://media0.giphy.com/media/nsMPhWK6bfxHq/giphy.gif)

@@ -153,14 +153,15 @@ if ($age >= 18)
 
 ```
 
-### 10. Exercice ternaire
+### 10. Exercices ternaires
 
-Dans un script `ternaire.php` déclare à l'aide d'une expression ternaire, une variable `$bonjour` dont la valeur est un message de salutation selon qu'une autre variable `$genre` soit 'H' ou 'F'.  
-Termine par afficher la valeur de `$bonjour`.
+1. Dans un script `ternaire.php` déclare à l'aide d'une expression ternaire, une variable `$bonjour` dont la valeur est un message de salutation selon qu'une autre variable `$genre` soit 'H' ou 'F'.  
+Termine par afficher la valeur de `$bonjour`.  
+2. Dans un script `licorne.php`, crée un formulaire HTML avec la question "Es-tu un humain, un chat ou une licorne ?". Lorsque le formulaire est soumis au serveur, celui-ci répond en affichant un gif adapté à la réponse de l'utilisateur, de ton choix. Tu peux le faire en GET ou en POST, comme tu préfères. Utilise une condition ternaire pour évaluer la réponse à afficher.
 
-
-### 11. Un quizz, peut-être?
-
-Tu as fait tous ces exercices? Bravo, voici un gif!
+Tu as terminé ? Bravo, voici un gif!
 
 ![Giphy](http://media0.giphy.com/media/CNprQ8KGpORVu/giphy.gif)
+
+Fais-toi un petit [quizz](../../Quizz/PHP/php-base-1.md) pour vérifier l'état de tes connaissances.
+

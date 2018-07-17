@@ -1,18 +1,6 @@
 # PHP
 
-
 Ce parcours sur l'apprentissage du PHP est _made in BeCode_ mais libre à toi d'aller sur OpenClassroom, CodeaCaMachin, voire trucMuche... 
-
-## Configurer son PC pour pouvoir jouer avec du PHP
-- [Configurer un environnement de développement local (LAMP) sur Ubuntu](https://github.com/becodeorg/BeCode/wiki/Installer-LAMP-sur-Ubuntu) - si le lien ne fonctionne pas, [cliquez ici](https://github.com/becodeorg/BeCode/wiki) puis cliquez sur [Pages] puis choisissez le bon post.
-- [Installer LAMP sur Linux](https://doc.ubuntu-fr.org/lamp)
-- [Et y'a le tuto de Thomas aussi](https://github.com/Rivanos/projet-client-connectbx/tree/master/Le%20site#installer-linux-apache-mysql-php-lamp)
-- [Installer PHPMyAdmin](https://doc.ubuntu-fr.org/phpmyadmin)
-
-
-## Introduction
-- [Introduction au PHP](https://docs.google.com/presentation/d/133tChXIMvfqRgaf9329WOymsGTXLzIVXyIZpW0Z1mFI/edit?usp=sharing)
-- [Comprendre en quoi consiste la programmation !](https://www.video2brain.com/fr/tuto/en-quoi-consiste-la-programmation) (3 min vidéo)
 
 Quel que soit le chemin choisi, ce qui est important est que tu atteignes ces...
 ## Objectifs d'apprentissage
@@ -67,10 +55,11 @@ Quel que soit le chemin choisi, ce qui est important est que tu atteignes ces...
 1. [Introduction](php-introduction.md)
 2. [Variables](php-variables.md)
 3. [Conditions](php-conditions.md)
-4. Drill : [Exercices sur les Conditions](php-exercices-conditions.md)
-5. [Tableaux (array)](php-array.md)
-6. [Boucles](php-boucles.md)
-7. [Fonctions](php-fonctions.md)
+4. Quizz: [PHP / intro + variables](./php-quizz-1.md)
+5. Drill: [Exercices sur les Conditions](php-exercices-conditions.md)
+6. [Tableaux (array)](php-array.md)
+7. [Boucles](php-boucles.md)
+8. [Fonctions](php-fonctions.md)
 
 ### Temps 1 : Exercices pratiques
 Une fois ces étapes du parcours effectuées, utilisons ces nouveaux acquis dans des exercices concrets, inspirés de situations réelles.
