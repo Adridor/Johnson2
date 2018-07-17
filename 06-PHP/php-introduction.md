@@ -60,28 +60,28 @@ Pour éviter cela, on travaille sur son propre ordinateur, c'est plus facile et 
 Il t'arrivera aussi de travailler avec un _environnement de staging_ présentant du code à faire valider avant sa mise en production.
 
 ### Installer un serveur de développement local
-Il y a énormément de manière de faire cela, mais pour ces premiers exercices, il nous faut juste avoir un serveur permettant de jouer avec du PHP.
-Cela tombe bien, PHP inclut un petit serveur de développement local. Il te suffit donc d'installer PHP sur ta machine et c'est fait!
 
-Allons chez nous, dans le terminal.
+Un "stack de développement" désigne les logiciels nécessaires à une application web, côté serveur. Les stacks PHP les plus courants sont LAMP et LEMP : Linux/Windows/MacOS + Apache (ou nginx qui se prononce "engine X", d'où le E) + MySQL + PHP.  
 
-#### 1. Instalation:
+Si tu es sur Windows, tu peux donc chercher "WAMP" et sur mac "MAMP". 
 
-` sudo apt install apache2 php mysql-server libapache2-mod-php php-mysql ` 
 
-n'oublie pas d'installer xampp 
+#### 1. Installation:
 
-` sudo chmod 755 xampp-linux-*-installer.run `
+1. Voir les instructions pour [installer un environnement LAMP](https://github.com/becodeorg/BeCode/wiki/Installer-LAMP-sur-Ubuntu). Si tu préfères, tu peux aussi utiliser Docker pour télécharger et installer un environnement de développement tout fait qui tournera en machine virtuelle sur ta machine. [Voici un Docker LEMP parfait](https://github.com/becodeorg/docker-compose-lamp-stack) pour ton parcours à BeCode. 
 
-1. Pour lancer le serveur, il suffit de taper ceci dans le Terminal: 
+Quel que soit le chemin que tu choisis, tu dois avoir un serveur qui serve l'adresse http://localhost:PORT/ pour pouvoir continuer.
 
- ``` cd opt/jenesaisplus/apache2 stop ``` 
- ``` cd opt/jenesaisplus/mysql stop ``` 
- ``` cd etc/xampp/xampp start ```
+2. Crée un dossier "test"
+3. à l'intérieur, crée un fichier index.php et mets-y ceci: 
 
-2. Pour créer ton premier fichier php, il te faudra aller dans le dossier htacess et le chmoder comme un bourain en 777 et par la suite tu pourras aller créer un dossier nomé comme ton projet et y mettre un index.php
+```php
+<?php
+echo "Hello!";
+?>
+```
 
-#### 2. A présent, ouvre ton navigateur à l'adresse http://localhost:80/tondossier
+#### 2. A présent, ouvre ton navigateur à l'adresse http://localhost/test
 
 Tu devrais voir le sympathique message "Hello!" que tu t'es adressé. Tu viens de créer ton premier script en PHP. Fais-toi un gros câlin, tu l'as bien mérité.
 
