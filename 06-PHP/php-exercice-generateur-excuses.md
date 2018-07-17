@@ -19,7 +19,7 @@ Pour chaque option, invente une excuse adaptée en fonction de l'option choisie 
 A l'aide d'une condition, génère le mot d'excuse adapté, en fonction des réponses au formulaire.  Le parent n'aura plus qu'à copier-coller la réponse pour rédiger sa lettre d'excuses.
 
 ## BONUS
-Prévois 5 excuses en fonction de chaque raison et fais en sorte qu'une des 5 excuses soit choisir aléatoirement et inclut dans la lettre d'excuse.
+Prévois 5 excuses en fonction de chaque raison et fais en sorte qu'une des 5 excuses soit choisie aléatoirement et incluse dans la lettre d'excuse.
 
 ## Critères de perfectionnement
 - ajoute la date du jour (format "Day, le dd Month YYYY")
