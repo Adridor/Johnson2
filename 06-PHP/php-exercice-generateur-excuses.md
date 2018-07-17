@@ -1,9 +1,11 @@
 # PHP Exercice
 
-Dans un fichier "excuse.php", crée un "générateur d'excuses" pour faciliter la vie des parents  d'enfants en école primaire.
+Dans un fichier "excuse.php", crée un "générateur d'excuses" afin de faciliter la vie des parents  d'enfants en école primaire.
 
-Il te faut un formulaire avec trois questions:
+Il te faut un formulaire avec ces questions:
+
 1. nom de l'enfant
+1. Genre de l'enfant (fille ou garçon)
 1. nom de l'institutrice
 1. une raison de l'absence à choisir parmi des options (input de type "radio"):
     1. maladie
@@ -11,15 +13,13 @@ Il te faut un formulaire avec trois questions:
     1. activité extra-scolaire importante
     1. toute autre excuse de ton choix
   
-Pour chaque option, invente une excuse adaptée en fonction de l'option choisie.
+Pour chaque option, invente une excuse adaptée en fonction de l'option choisie ([inspiration](http://www.textes-voeux.com/excuse-absence-eleve/)).  
 
-Utilise une condition pour afficher la bonne excuse.
+## Objectif
+A l'aide d'une condition, génère le mot d'excuse adapté, en fonction des réponses au formulaire.  Le parent n'aura plus qu'à copier-coller la réponse pour rédiger sa lettre d'excuses.
 
-Génère le mot d'excuse utilisant les trois réponses au formulaire. 
-
-Le parent n'aura plus qu'à copier-coller la réponse pour rédiger sa lettre d'excuses.
-
-BONUS : prévois 5 excuses en fonction de chaque raison et fais en sorte qu'une des 5 excuses soit choisir aléatoirement et inclut dans la lettre d'excuse.
+## BONUS
+Prévois 5 excuses en fonction de chaque raison et fais en sorte qu'une des 5 excuses soit choisir aléatoirement et inclut dans la lettre d'excuse.
 
 ## Critères de perfectionnement
 - ajoute la date du jour (format "Day, le dd Month YYYY")
