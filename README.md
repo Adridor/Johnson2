@@ -6,7 +6,6 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 ## Tes sources d'information pour respecter les règles de BeCode
 
 1. Lis le [contrat pédagogique](../../../BeCode/blob/master/contratpedagogique.md).
-1. Consulte également le [livret des apprenants](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md).
 1. Le [Wiki de BeCode](https://github.com/becodeorg/BeCode/wiki)
 
 ## Retards et absences
