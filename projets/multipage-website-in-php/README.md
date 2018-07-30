@@ -23,7 +23,7 @@ Vous recevrez un formulaire Google qui vous demandera 2 URL :
 		- contient au moins une capture d'écran de l'application.
 		- Indique le score obtenu au [Lighthouse Test](https://developers.google.com/web/tools/lighthouse/)
 	- Utilisez le "[projects Board](https://liftux.com/using-github-issues-project-management/)" du repo pour la gestion et le suivi des tâches
-![](https://i1.wp.com/cloud.githubusercontent.com/assets/3477155/18481731/44629a3e-79ab-11e6-8ce9-9ad5f07a135d.gif?w=1200&ssl=1)
+![GitHub Projects Board demo](https://i1.wp.com/cloud.githubusercontent.com/assets/3477155/18481731/44629a3e-79ab-11e6-8ce9-9ad5f07a135d.gif?w=1200&ssl=1)
 2. URL du site déployé en production sur Heroku
 
 ## Cahier des charges
@@ -46,7 +46,7 @@ Vous devez livrer un site multi-pages
 	- à chaque envoi du formulaire : 
 		- bien respecter la séquence sanitiser > valider > exécuter > afficher (relire [ceci](https://github.com/becodeorg/lovelace-2/blob/master/Parcours/06-PHP/php-formulaires.md#backend--traitement-du-formulaire))
 		- loguer l'activité dans un fichier texte qui sera mis à jour à chaque fois.
-		- envoi des données du formulaire dans vos boîtes mail.
+		- envoi des données du formulaire dans vos boîtes mail, avec CC à l'émetteur (l'utilisateur)
 	- Mentionner le prénom, le nom, l'adresse mail, la date et l'heure et le format de réponse demandé par l'utilisateur.
 	- faire une page supplémentaire (`/form-logs.php`) qui affiche le contenu du log sans mentionner les noms de famille, ni les adresses mails.
 	- Lorsque l'utilisateur fait des erreurs d'encodage, les messages d'erreur s'affichent à proximité du champs concerné et sont pertinents
@@ -99,22 +99,51 @@ Le/a coordinateur/trice du projet ajoute quels objectifs sont portés par quel m
 *Grâce à ce projet, je voudrais apprendre (choisis environ 6 ou 7 OA) :*
 
 1. groupe : Agile (manipulation tableau kanban) + tenue quotidienne du planning du groupe
+Évaluation : présence d'un _projects board_ bien tenu et montrant qu'il a été utilisé pour la gestion du projet.
+
 1. groupe : être le capitaine du repos, qui gère les merge et les conflits
+Évaluation : conflits résolus, présence de branches sur lesquelles chacun(e) a travaillé...
+
 1. groupe : rédaction d'un readme complet et professionnel
+Évaluation : fichier readme bien construit et contenant un lien vers le projet en ligne.
+
 1. UX : branding
+Évaluation : le site fournit représente un outil marketing perçu comme professionnel. Un système graphique cohérent se retrouve de pages en pages.
+
 1. UX : contextual user entry errors display
+Évaluation : lorsque j'introduis volontairement des erreurs dans le formulaire (maladress ou tentative d'injection SQL), le html du ou des messages d'erreurs s'affichent à proximité du champ concerné.
 1. UX : mentions GDPR pour informer l'utilisateur de l'utilité de fournir les données
+Évaluation :  à déterminer
+
 1. frontend : sélection et mise en place d'un framework CSS
+Évaluation : 
+
 1. backend : UML charting des différents scripts
+Évaluation : 
+
 1. backend : upload d'image
+Évaluation : lorsque l'on soumet le formulaire, l'image est bien uploadée et est présente dans l'email au format HTML.
+
 1. backend : édition d'un fichier txt en PHP
+Évaluation : lorsque l'on soumet le formulaire, une nouvelle ligne s'ajoute au fichier de Log.
+
 1. backend : utilisation d'un serveur SMTP
+Évaluation : un email envoyé est bien reçu. Dans le code, utilisation d'un serveur SMTP externe.
+
 1. backend : éviter les injections SQL
+Évaluation : le script php traitant le formulaire empêche l'injection SQL d'être potentiellement exécutée.
+
 1. devops : déploiement sur Heroku
-2. backend : afficher les erreurs à proximité des champs concernés
-1. frontend/backend : utiliser le [lighthouse test](https://developers.google.com/web/tools/lighthouse/) pour améliorer son site
+Évaluation : le site de production fonctionne sans bugs sur Heroku.
+
+1. backend : afficher les erreurs à proximité des champs concernés
+Évaluation : lorsque j'introduis volontairement des erreurs dans le formulaire (maladress ou tentative d'injection SQL), le html du ou des messages d'erreurs s'affiche à proximité du champ concerné.
+
+1. frontend/backend : utiliser le [lighthouse test](https://developers.google.com/web/tools/lighthouse/) pour améliorer son site et atteint un score de minimum 80 pour chaque critère.
+Évaluation : chaque page du site sera testée.
+
 1. frontend : Progressive Web App
-1. backend : maitriser le déploiement sur Heroku
+Évaluation : le score de l'aspect PWA de Lighthouse Test sera de 100.
 
 ## Les groupes et les projets
 
