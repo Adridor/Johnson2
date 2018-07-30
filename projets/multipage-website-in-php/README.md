@@ -7,7 +7,7 @@
 
 ## Demande client : Un site multipage avec un formulaire de contact fonctionnel
 
-"J'ai besoin de rafraîchir mon site internet. J'aurais besoin d'une site avec plusieurs pages pour bien séparer le contenu."
+"J'ai besoin de rafraîchir mon site internet. J'aurais besoin d'un site avec plusieurs pages pour bien séparer le contenu."
 
 "J'aimerais bien que les visiteurs de mon site puissent m'envoyer un mail via un formulaire de contact avec une petite photo."
 
