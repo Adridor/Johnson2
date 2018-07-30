@@ -98,55 +98,55 @@ Le/a coordinateur/trice du projet ajoute quels objectifs sont portés par quel m
 
 *Grâce à ce projet, je voudrais apprendre (choisis environ 6 ou 7 OA) :*
 
-1. groupe : Agile (manipulation tableau kanban) + tenue quotidienne du planning du groupe
+1. groupe : Agile (manipulation tableau kanban) + tenue quotidienne du planning du groupe  
 Évaluation : présence d'un _projects board_ bien tenu et montrant qu'il a été utilisé pour la gestion du projet.
 
-1. groupe : être le capitaine du repos, qui gère les merge et les conflits
+1. groupe : être le capitaine du repos, qui gère les merge et les conflits  
 Évaluation : conflits résolus, présence de branches sur lesquelles chacun(e) a travaillé...
 
-1. groupe : rédaction d'un readme complet et professionnel
+1. groupe : rédaction d'un readme complet et professionnel  
 Évaluation : fichier readme bien construit et contenant un lien vers le projet en ligne.
 
-1. UX : branding
+1. UX : branding  
 Évaluation : le site fournit représente un outil marketing perçu comme professionnel. Un système graphique cohérent se retrouve de pages en pages.
 
-1. UX : contextual user entry errors display
+1. UX : contextual user entry errors display  
 Évaluation : lorsque j'introduis volontairement des erreurs dans le formulaire (maladress ou tentative d'injection SQL), le html du ou des messages d'erreurs s'affichent à proximité du champ concerné.
 
-1. UX : mentions GDPR et Copyright pour informer l'utilisateur de l'utilité de fournir les données
+1. UX : mentions GDPR et Copyright pour informer l'utilisateur de l'utilité de fournir les données  
 Évaluation :  
 - une option non cochée par défaut dans le formulaire permet à l'utilisateur de spécifier qu'il est d'accord que le site utilise ses données et documents envoyés uniquement afin de répondre à sa requête directe et non à des fins de marketing ou autre.
 - une notification invite l'utilisateur à accepter l'usage de cookies.
 - toute image sera accompagnée d'une légende à proximité, indiquant l'auteur (et la source si disponible).
 
-1. frontend : sélection et mise en place d'un framework CSS
+1. frontend : sélection et mise en place d'un framework CSS  
 Évaluation : un framework CSS a été utilisé pour réaliser les interfaces.
 
-1. backend : UML charting des différents scripts
+1. backend : UML charting des différents scripts  
 Évaluation : présence dans le readme de l' UML du script traitant le formulaire.
 
-1. backend : upload d'image
+1. backend : upload d'image  
 Évaluation : lorsque l'on soumet le formulaire, l'image est bien uploadée et est présente dans l'email au format HTML.
 
-1. backend : édition d'un fichier txt en PHP
+1. backend : édition d'un fichier txt en PHP  
 Évaluation : lorsque l'on soumet le formulaire, une nouvelle ligne s'ajoute au fichier de Log.
 
-1. backend : utilisation d'un serveur SMTP
+1. backend : utilisation d'un serveur SMTP  
 Évaluation : un email envoyé est bien reçu. Dans le code, utilisation d'un serveur SMTP externe.
 
-1. backend : éviter les injections SQL
+1. backend : éviter les injections SQL  
 Évaluation : le script php traitant le formulaire empêche l'injection SQL d'être potentiellement exécutée.
 
-1. devops : déploiement sur Heroku
+1. devops : déploiement sur Heroku  
 Évaluation : le site de production fonctionne sans bugs sur Heroku.
 
-1. backend : afficher les erreurs à proximité des champs concernés
+1. backend : afficher les erreurs à proximité des champs concernés  
 Évaluation : lorsque j'introduis volontairement des erreurs dans le formulaire (maladress ou tentative d'injection SQL), le html du ou des messages d'erreurs s'affiche à proximité du champ concerné.
 
-1. frontend/backend : utiliser le [lighthouse test](https://developers.google.com/web/tools/lighthouse/) pour améliorer son site et atteint un score de minimum 80 pour chaque critère.
+1. frontend/backend : utiliser le [lighthouse test](https://developers.google.com/web/tools/lighthouse/) pour améliorer son site et atteint un score de minimum 80 pour chaque critère.  
 Évaluation : chaque page du site sera testée.
 
-1. frontend : Progressive Web App
+1. frontend : Progressive Web App  
 Évaluation : le score de l'aspect PWA de Lighthouse Test sera de 100.
 
 ## Les groupes et les projets
