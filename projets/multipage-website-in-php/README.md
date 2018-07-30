@@ -140,6 +140,6 @@ Le/a coordinateur/trice du projet ajoute quels objectifs sont portés par quel m
 |Thibault Gribaumont|	Dylan Valente| https://www.lhiving.be/contact-fr/ |
 |Eric Lavachery|	Claudiu Cornea| http://melius.be/fr/melius.php |
 |Adrien d'Oreye|	Sammuel Jassens| http://www.entraide-marolles.be/ |
-|Stephane Wilfort|	Gaetano Mico Latorre| https://www.letilt.be/ |
-|Guillaume Deruwez	|Quang Le| https://sites.google.com/a/ballonrouge.be/www/ |
+|Stephane Wilfort|	Quang Le| https://www.letilt.be/ |
+|Guillaume Deruwez	|Gaetano Mico Latorre| https://sites.google.com/a/ballonrouge.be/www/ |
 |Geraldine Winand	|Ludovic Dhoore| http://www.bepax.org|
