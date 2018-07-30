@@ -116,10 +116,10 @@ Le/a coordinateur/trice du projet ajoute quels objectifs sont portés par quel m
 Évaluation :  à déterminer
 
 1. frontend : sélection et mise en place d'un framework CSS
-Évaluation : 
+Évaluation : un framework CSS a été utilisé pour réaliser les interfaces.
 
 1. backend : UML charting des différents scripts
-Évaluation : 
+Évaluation : présence dans le readme de l' UML du script traitant le formulaire.
 
 1. backend : upload d'image
 Évaluation : lorsque l'on soumet le formulaire, l'image est bien uploadée et est présente dans l'email au format HTML.
