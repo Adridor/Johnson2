@@ -142,4 +142,4 @@ Le/a coordinateur/trice du projet ajoute quels objectifs sont portés par quel m
 |Adrien d'Oreye|	Sammuel Jassens| http://www.entraide-marolles.be/ |
 |Stephane Wilfort|	Quang Le| https://www.letilt.be/ |
 |Guillaume Deruwez	|Gaetano Mico Latorre| https://sites.google.com/a/ballonrouge.be/www/ |
-|Geraldine Winand	|Ludovic Dhoore| http://www.bepax.org|
+|Geraldine Winand	|Ludovic Dhoore| http://endobelgique.be/|
