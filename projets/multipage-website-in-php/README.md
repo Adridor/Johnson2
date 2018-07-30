@@ -114,10 +114,11 @@ Le/a coordinateur/trice du projet ajoute quels objectifs sont portés par quel m
 Évaluation : lorsque j'introduis volontairement des erreurs dans le formulaire (maladress ou tentative d'injection SQL), le html du ou des messages d'erreurs s'affichent à proximité du champ concerné.
 
 1. UX : mentions GDPR et Copyright pour informer l'utilisateur de l'utilité de fournir les données  
-Évaluation :  
-- une option non cochée par défaut dans le formulaire permet à l'utilisateur de spécifier qu'il est d'accord que le site utilise ses données et documents envoyés uniquement afin de répondre à sa requête directe et non à des fins de marketing ou autre.
-- une notification invite l'utilisateur à accepter l'usage de cookies.
-- toute image sera accompagnée d'une légende à proximité, indiquant l'auteur (et la source si disponible).
+	Évaluation :  
+	
+	- une option non cochée par défaut dans le formulaire permet à l'utilisateur de spécifier qu'il est d'accord que le site utilise ses données et documents envoyés uniquement afin de répondre à sa requête directe et non à des fins de marketing ou autre.
+	- une notification invite l'utilisateur à accepter l'usage de cookies.
+	- toute image sera accompagnée d'une légende à proximité, indiquant l'auteur (et la source si disponible).
 
 1. frontend : sélection et mise en place d'un framework CSS  
 Évaluation : un framework CSS a été utilisé pour réaliser les interfaces.
