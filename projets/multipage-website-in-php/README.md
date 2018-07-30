@@ -110,6 +110,7 @@ Le/a coordinateur/trice du projet ajoute quels objectifs sont portés par quel m
 1. backend : édition d'un fichier txt en PHP
 1. backend : utilisation d'un serveur SMTP
 1. backend : éviter les injections SQL
+1. devops : déploiement sur Heroku
 2. backend : afficher les erreurs à proximité des champs concernés
 1. frontend/backend : utiliser le [lighthouse test](https://developers.google.com/web/tools/lighthouse/) pour améliorer son site
 1. frontend : Progressive Web App
