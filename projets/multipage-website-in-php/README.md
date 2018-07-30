@@ -7,8 +7,6 @@
 
 ## Demande client : Un site multipage avec un formulaire de contact fonctionnel
 
-Votre client ainsi que le contenu du website sera issu d'un website imposé.
-
 "J'ai besoin de rafraîchir mon site internet. J'aurais besoin d'une site avec plusieurs pages pour bien séparer le contenu."
 
 "J'aimerais bien que les visiteurs de mon site puissent m'envoyer un mail via un formulaire de contact avec une petite photo."
@@ -30,7 +28,7 @@ Vous recevrez un formulaire Google qui vous demandera 2 URL :
 
 ## Cahier des charges
 
-Vous devez livrer un site multi-pages
+Vous devez livrer un site multi-pages 
 
 - qui respecte le principe [DRY](https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas) : tout élément d'interface qui se répète sera isolé dans un fichier "partiel" inclus dans le fichier gérant la requête, grâce à la fonction php `include()`
 - qui sépare le calcul de l'affichage (le PHP à sa place et le HTML à la sienne, on ne mélange pas tout).
@@ -42,17 +40,17 @@ Vous devez livrer un site multi-pages
 	- la fonction `mail()` de php étant trop basique, utilise une [class externe pour mail](https://github.com/PHPMailer/PHPMailer)
 	- toujours pour l'envoi de l'email, utilise un serveur SMTP gratuit comme gmail (utilisez votre propre compte)
 	- Sanitisation : éviter les injections SQL
-	- Validation :
+	- Validation : 
 		- limiter l'upload uniquement aux formats d'images les plus courants (jpg, jpeg, png, gif)
 		- obliger le minimum pour pouvoir répondre : email  + message
-	- à chaque envoi du formulaire :
+	- à chaque envoi du formulaire : 
 		- bien respecter la séquence sanitiser > valider > exécuter > afficher (relire [ceci](https://github.com/becodeorg/lovelace-2/blob/master/Parcours/06-PHP/php-formulaires.md#backend--traitement-du-formulaire))
 		- loguer l'activité dans un fichier texte qui sera mis à jour à chaque fois.
 		- envoi des données du formulaire dans vos boîtes mail.
 	- Mentionner le prénom, le nom, l'adresse mail, la date et l'heure et le format de réponse demandé par l'utilisateur.
 	- faire une page supplémentaire (`/form-logs.php`) qui affiche le contenu du log sans mentionner les noms de famille, ni les adresses mails.
 	- Lorsque l'utilisateur fait des erreurs d'encodage, les messages d'erreur s'affichent à proximité du champs concerné et sont pertinents
-- CSS Responsive sur base d'un framework CSS au choix.
+- CSS Responsive sur base d'un framework CSS au choix. 
 - Score d'au moins 80/100 de chaque page au [Lighthouse Test](https://developers.google.com/web/tools/lighthouse/).
 
 ### Mockup du formulaire
@@ -70,9 +68,9 @@ Par conséquent, durant la première journée de travail, vous aurez l'opportuni
 - Etude de la demande :  
 	- As-tu tout compris ? Pour le savoir, reformule la demande avec ton/ta collègue et comparez votre compréhension mutuelle.
 	- Réalisez un prototype papier, puis balsamiq/invision.com/AdobeXD, des écrans à construire.
-	- Clarifie pour toi-même ce que doit faire chacune des composantes de ton application, via de l'Unified Modelling Language (UML) ([example 1](http://astah.net/features/uml-features/uml-features-class.png), [example 2](http://msoe.us/taylor/tutorial/se1021/exceptionUML.png)). Un outil utile pour pseudo-coder : https://code2flow.com
+	- Clarifie pour toi-même ce que doit faire chacune des composantes de ton application, via de l'Unified Modelling Language (UML) ([example 1](http://astah.net/features/uml-features/uml-features-class.png), [example 2](http://msoe.us/taylor/tutorial/se1021/exceptionUML.png)). Un outil utile pour pseudo-coder : https://code2flow.com 
 - Discutez ensemble, en laissant à chacun(e) l'opportunité d'exprimer ce qui l'intéresse dans ce projet en terme d'objectifs d'apprentissage. --> Voir Animation des "petits papiers" et la "Liste des OA".
-- Créez le repository sur GitHub
+- Créez le repository sur GitHub 
 - Désignez un(e) coordinateur/trice du projet, qui tiendra à jour le Project Board et qui sera aussi le lieutenant du repo.
 - Identifiez les tâches
 - Répartissez-vous les rôles (backend/frontend) et les tâches
@@ -116,3 +114,32 @@ Le/a coordinateur/trice du projet ajoute quels objectifs sont portés par quel m
 1. frontend/backend : utiliser le [lighthouse test](https://developers.google.com/web/tools/lighthouse/) pour améliorer son site
 1. frontend : Progressive Web App
 1. backend : maitriser le déploiement sur Heroku
+
+## Les groupes et les projets
+
+| Johnson | Lovelace | Projet  |
+|--:|:--|:--:|
+|Colombe Sechehaye|	Geoffrey Poelmans| http://users.skynet.be/foret/index.html |
+|Nicolas de Liedekerke|	Guillaume Bare|http://www.assoc.be/ |
+|Merieme Lamri|	Anthony Sel| http://www.lespetitsvieux.be/ |
+|Nathan Houtain|	Romain Vandevoorde| https://solidarite-savoir.be/ |
+|Liam Carlier|	Mostapha Tahri| http://bienvivrechezsoi.be/ |
+|Guillaume Kreit|	Michael Debus, Pedro Seromenho| http://convivial.be/ |
+|Ajay Shinde|	Morgane  Meganck| http://www.intergeneration.be/ |
+|Alexandre Infanti	|Julie Connerotte| https://petitsriens.be/ |
+|Antoni Dalle Nogare|	Baptiste Firket|http://www.loupiote.be/ |
+|Marco Bove|	Mohamed Ali Nadir| https://sites.google.com/site/repaircafeschaerbeek/ |
+|Marie Louise Ogdoc|	Mariane Niwemfura| http://www.abpasbl.be/-AMV-asbl-Bruxelles- |
+|Massimo Regaglia|	Andrea Pinna| http://www.centreculturelwanze.be/ |
+|Hakan Poyraz	|Stéphane Wyns| http://www.tele-accueil-bruxelles.be/ |
+|Jean-François Geerinckx|	Paul Henrot| http://www.assoc.be/ |
+|Jesse Fumba	|Sourech Bauts|https://www.nph-belgium.org/ |
+|Charlotte Tusset|	Liliane Mamale| http://www.chomhier.be |
+|Cedric Fournier|	Meilyn Andrade|  http://www.senoah.be |
+|Marie Cambie	|Ludovic Hautecoeur| http://www.potage-toit.be/ |
+|Thibault Gribaumont|	Dylan Valente| https://www.lhiving.be/contact-fr/ |
+|Eric Lavachery|	Claudiu Cornea| http://melius.be/fr/melius.php |
+|Adrien d'Oreye|	Sammuel Jassens| http://www.entraide-marolles.be/ |
+|Stephane Wilfort|	Gaetano Mico Latorre| https://www.letilt.be/ |
+|Guillaume Deruwez	|Quang Le| https://sites.google.com/a/ballonrouge.be/www/ |
+|Geraldine Winand	|Ludovic Dhoore| http://www.bepax.org|
