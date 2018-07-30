@@ -54,6 +54,7 @@ Vous devez livrer un site multi-pages
 - Score d'au moins 80/100 de chaque page au [Lighthouse Test](https://developers.google.com/web/tools/lighthouse/).
 
 ### Mockup du formulaire
+Voici ce que le client te transmet. Il doit y avoir au minimum ces champs, mais n'hésite pas à adapter pour correspondre aux OA et à la finalité de l'entreprise / association.
 
 ![mockup du formulaire](assets/formulaire.png)
 
