@@ -1,9 +1,10 @@
 # Projet : Fil Rouge "Multipage Website"
 
-- Durée : 7 jours ouvrables
-- par groupe de 2 (inter-startup)
+- **Durée** : 7 jours ouvrables
+- par **groupe** de 2 (inter-startup) dans les conditions de travail à distance
 - Repository GitHub intitulé `multipage-website-in-php`
-- Publier (gratuitement) l'application sur Heroku ([heroku](https://www.heroku.com))
+- Publier (gratuitement) l'application sur **Heroku** ([heroku](https://www.heroku.com))
+- **Formulaire de remise du projet** : à venir
 
 ## Demande client : Un site multipage avec un formulaire de contact fonctionnel
 
@@ -62,7 +63,9 @@ Voici ce que le client te transmet. Il doit y avoir au minimum ces champs, mais 
 
 L'objectif de ce challenge est de vous donner l'occasion d'utiliser vos nouveaux acquis en PHP dans un scénario réaliste. Le projet est conséquent et introduit de nombreux problèmes intéressants pour votre apprentissage. Il est donc plus important pour nous que chaque membre de l'équipe atteigne ses objectifs d'apprentissage que de réussir le projet.
 
-Par conséquent, durant la première journée de travail, vous aurez l'opportunité de voir votre binôme et de définir et répartir les objectifs d'apprentissage de chacun(e). Vous aurez jusque 12h30 pour vous voir. Après ce moment-là, chacun dans sa start-up, vous devrez travailler à distance, via Ryver et GitHub. Pas de négociation ou d'exception possible.
+Par conséquent, durant la première journée de travail, vous aurez l'opportunité de voir votre binôme et de définir et répartir les objectifs d'apprentissage de chacun(e). Vous aurez jusque lundi 30/07, 12h30 pour vous voir. Après ce moment-là, chacun dans sa start-up, vous devrez travailler à distance, via Ryver, Skype, GitHub. Pas de négociation ou d'exception possible.
+
+Vous avez bien compris, vous allez expérimenter le travail à distance. Jouez le jeu jusqu'au bout, cela vous donnera un avant-goût des réalités du monde du travail qui vous attendent.
 
 **Comment vous organiser ?**
 
