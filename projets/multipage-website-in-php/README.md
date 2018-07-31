@@ -111,9 +111,6 @@ Le/a coordinateur/trice du projet ajoute quels objectifs sont portés par quel m
 1. **UX : branding**  
 Évaluation : le site fournit représente un outil marketing perçu comme professionnel. Un système graphique cohérent se retrouve de pages en pages.
 
-1. **UX : contextual user entry errors display**  
-Évaluation : lorsque j'introduis volontairement des erreurs dans le formulaire (maladress ou tentative d'injection SQL), le html du ou des messages d'erreurs s'affichent à proximité du champ concerné.
-
 1. **UX : mentions GDPR et Copyright pour informer l'utilisateur de l'utilité de fournir les données**  
 	Évaluation :  
 
