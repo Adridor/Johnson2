@@ -33,7 +33,7 @@ Vous devez livrer un site multi-pages
 
 - qui respecte le principe [DRY](https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas) : tout élément d'interface qui se répète sera isolé dans un fichier "partiel" inclus dans le fichier gérant la requête, grâce à la fonction php `include()`
 - qui sépare le calcul de l'affichage (le PHP à sa place et le HTML à la sienne, on ne mélange pas tout).
-- de minimum 3 pages, maximum 5 pages (choisissez bien et gérez bien le contenu : concision, clarté, pertinence par rapport aux publics-cible et aux objectifs du client)
+- de minimum 3 pages, maximum 5 pages (choisissez bien et gérez bien le contenu : concision, clarté, pertinence par rapport aux publics-cible et aux objectifs du client = ne recopiez pas inutilement l'intégralité du site, choisissez quelques sujets/thèmes et utilisez-les pour les pages et basta.)
 - Une de ces pages contiendra un formulaire de contact (méthode `POST`) avec la possibilité pour l'internaute de choisir son genre, l'objet de son message et s'il souhaite recevoir une réponse sous format HTML ou txt. (Vois ci-dessous le mockup de formulaire, pour t'inspirer)
 - obligation d'utiliser un `.gitignore` (pour ne pas publier vos informations de connexion gmail sur GitHub)
 - formulaire d'upload en HTML sémantique
