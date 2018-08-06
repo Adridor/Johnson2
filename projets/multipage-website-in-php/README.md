@@ -4,7 +4,7 @@
 - par **groupe** de 2 (inter-startup) dans les conditions de travail à distance
 - Repository GitHub intitulé `multipage-website-in-php`
 - Publier (gratuitement) l'application sur **Heroku** ([heroku](https://www.heroku.com))
-- **Formulaire de remise du projet** : à venir
+- **Formulaire de remise du projet** : https://goo.gl/forms/c5WFSsFYUSreAWZY2
 
 ## Demande client : Un site multipage avec un formulaire de contact fonctionnel
 
