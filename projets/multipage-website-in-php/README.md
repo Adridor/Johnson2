@@ -96,7 +96,7 @@ Lorsque un objectif d'apprentissage est souhaité par plusieurs personnes, mette
 
 Au final, faites en sorte que les choses soient réparties de manière équilibrée et que tout le monde aie une part équivalente d'objectifs et de charge de travail.
 
-Le/a coordinateur/trice du projet ajoute quels objectifs sont portés par quel membre de la team dans le Readme.
+Le/a coordinateur/trice du projet **ajoute quels objectifs sont portés par quel membre de la team dans le Readme**.
 
 ### Liste des objectifs d'apprentissage (OA)
 
