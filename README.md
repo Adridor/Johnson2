@@ -32,13 +32,15 @@ Dans l'ordre :
 - [SASS](./04-SASS)
 - [Javascript](./05-Javascript)
 - [PHP](./06-PHP)
+- [SQL](./07-SQL)
 - [PWA](./13-PWA)
 
 ## Briefings de Projets
 Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te sont proposés.
 
-- [Website de restaurant (sujet au choix)](./projets/Restaurant_Bootstrap) en framework CSS
-- [Website AllezCiné + newsletter](./projets/AllezCine) à réaliser avec HTML, CSS, framework CSS, Javascript, jQuery
+- [Website de restaurant (sujet au choix)](./projets/Restaurant_Bootstrap) - framework CSS
+- [Website AllezCiné + newsletter](./projets/AllezCine) - HTML, CSS, framework CSS, Javascript, jQuery
+- [Website multipages](./projets/multipage-website-in-php) - HTML, CSS, framework CSS, PHP
 
 ## Workshops
 | thème | date | apprenant |
