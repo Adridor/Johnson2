@@ -38,6 +38,7 @@ Dans l'ordre :
 ## Briefings de Projets
 Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te sont proposés.
 
+- [CV en tableau HTML](./02-HTML-CSS/Training-3-tableau.md)
 - [Website de restaurant (sujet au choix)](./projets/Restaurant_Bootstrap) - framework CSS
 - [Website AllezCiné + newsletter](./projets/AllezCine) - HTML, CSS, framework CSS, Javascript, jQuery
 - [Website multipages](./projets/multipage-website-in-php) - HTML, CSS, framework CSS, PHP
