@@ -24,14 +24,14 @@
 				<option value="très difficile">Très difficile</option>
 			</select>
 		</div>
-		
+
 		<div>
 			<label for="distance">Distance</label>
 			<input type="text" name="distance" value="">
 		</div>
 		<div>
 			<label for="duration">Durée</label>
-			<input type="duration" name="duration" value="">
+			<input type="time" name="duration" value="">
 		</div>
 		<div>
 			<label for="height_difference">Dénivelé</label>
